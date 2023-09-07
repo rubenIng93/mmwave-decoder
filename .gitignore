@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# Workspace settings
+.vscode
+
+# Virtual environment
+pyenv
+
+# Input/ Output files
+*.dat
+*.csv
+out_data
+
 # Distribution / packaging
 .Python
 build/
