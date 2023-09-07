@@ -16,6 +16,7 @@ pyenv
 *.dat
 *.csv
 out_data
+frames
 
 # Distribution / packaging
 .Python
